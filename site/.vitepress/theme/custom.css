@@ -11,6 +11,7 @@
     --vp-c-brand-darker: rgb(171, 104, 4);
 
     --vp-c-text-dark-1: rgb(231 231 222 / 86%);
+
 }
 
 .dark {
@@ -21,6 +22,10 @@
     --vp-c-bg-elv-up: #14141d;
     --vp-c-bg-elv-down: #0e0e16;
     --vp-c-bg-elv-mute: #1c1c29;
+
+    --vp-c-bg-soft: #0b0b10d6;
+    --vp-c-bg-soft-up: #0b0b10bd;
+    --vp-c-bg-soft-down: #0b0b10ed;
 }
 
 /* Home page overrides */

@@ -1,7 +1,11 @@
+import configNav from "./config-nav";
+import configSidebar from "./config-sidebar";
+
 export default {
     title: "Lunarpunk Labs",
     description: "",
     appearance: "dark",
+    lastUpdated: true,
     head: [
         ["link", { rel: "icon", type: "favicon", href: "/favicon.ico" }],
         [
@@ -53,6 +57,8 @@ export default {
     themeConfig: {
         siteTitle: "Lunarpunk Labs",
         logo: "/assets/logo.png",
+        ...configSidebar,
+        ...configNav,
         editLink: {
             pattern:
                 "https://github.com/lunarpunk-labs/resource-site/edit/main/site/:path",
@@ -67,80 +73,6 @@ export default {
                 },
                 link: "https://linktr.ee/lunarpunk_labs",
             },
-        ],
-        nav: [
-            {
-                text: "Learning Resources",
-                items: [
-                    {
-                        text: "Blockchain First Principles",
-                        link: "/resources/first-principles/",
-                    },
-                    {
-                        text: "How to Guides",
-                        link: "/resources/guides/wallet/wallet-setup",
-                    },
-                ],
-            },
-            {
-                text: "Blog",
-                items: [
-                    { text: "To The Cosmos", link: "https://tothecosmos.org/" },
-                ],
-            },
-        ],
-        sidebar: [
-            {
-                text: "Wallets",
-                collapsable: true,
-                items: [
-                    // { text: "Cosmos Wallet Onboarding", link: "/wallet/cosmos-wallet-onboarding" },
-                    {
-                        text: "Wallet Setup",
-                        link: "/resources/guides/wallet/wallet-setup",
-                    },
-                    {
-                        text: "Wallet Transactions",
-                        link: "/resources/guides/wallet/wallet-transactions",
-                    },
-                    {
-                        text: "Staking Wallet Setup",
-                        link: "/resources/guides/wallet/staking-wallet-setup",
-                    },
-                ],
-            },
-            {
-                text: "Commonwealth",
-                collapsable: true,
-                items: [
-                    {
-                        text: "Sign-up",
-                        link: "/resources/guides/commonwealth/sign-up",
-                    },
-                    {
-                        text: "Discussion",
-                        link: "/resources/guides/commonwealth/discussion",
-                    },
-                    {
-                        text: "Proposals",
-                        link: "/resources/guides/commonwealth/proposals",
-                    },
-                    {
-                        text: "Voting",
-                        link: "/resources/guides/commonwealth/voting",
-                    },
-                    {
-                        text: "Community Spend Proposal",
-                        link: "/resources/guides/commonwealth/community-spend-proposal",
-                    },
-                ],
-            },
-            // {
-            //     text: "Useful Links",
-            //     items: [
-            //         { text: "Example", link: "/" },
-            //     ],
-            // },
         ],
         outline: "deep",
         // footer: {

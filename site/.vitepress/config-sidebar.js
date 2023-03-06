@@ -20,9 +20,9 @@ export default {
         collapsed: false,
         items: [
           {
-            text: "Consensus Mechanisms",
+            text: "Distributed Ledgers",
             collapsed: false,
-            link: "/resources/what/1_consensus/consensus",
+            link: "/resources/what/1_ledger/ledger",
             items: [
               //     collapsed: false,
               //     items: [

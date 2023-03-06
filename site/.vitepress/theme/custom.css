@@ -1,88 +1,86 @@
 :root {
-    --vp-home-hero-name-color: var(--vp-c-text-1);
-    --vp-c-text-light-1: rgb(12, 12, 12);
-    --vp-c-text-light-2: rgb(14, 14, 14);
-    --vp-c-text-light-3: rgb(16, 16, 16);
+  --vp-home-hero-name-color: var(--vp-c-text-1);
+  --vp-c-text-light-1: rgb(12, 12, 12);
+  --vp-c-text-light-2: rgb(14, 14, 14);
+  --vp-c-text-light-3: rgb(16, 16, 16);
 
-    --vp-c-brand: rgb(226 136 3);
-    --vp-c-brand-light: rgb(250, 158, 21);
-    --vp-c-brand-lighter: rgb(250, 171, 52);
-    --vp-c-brand-dark: rgb(201, 122, 2);
-    --vp-c-brand-darker: rgb(171, 104, 4);
+  --vp-c-brand: rgb(226 136 3);
+  --vp-c-brand-light: rgb(250, 158, 21);
+  --vp-c-brand-lighter: rgb(250, 171, 52);
+  --vp-c-brand-dark: rgb(201, 122, 2);
+  --vp-c-brand-darker: rgb(171, 104, 4);
 
-    --vp-c-text-dark-1: rgb(231 231 222 / 86%);
-
+  --vp-c-text-dark-1: rgb(231 231 222 / 86%);
 }
 
 .dark {
-    --vp-c-bg: #0f0f16;
-    --vp-c-bg-alt: #12121a;
+  --vp-c-bg: #0f0f16;
+  --vp-c-bg-alt: #12121a;
 
-    --vp-c-bg-elv: #12121b;
-    --vp-c-bg-elv-up: #14141d;
-    --vp-c-bg-elv-down: #0e0e16;
-    --vp-c-bg-elv-mute: #1c1c29;
+  --vp-c-bg-elv: #12121b;
+  --vp-c-bg-elv-up: #14141d;
+  --vp-c-bg-elv-down: #0e0e16;
+  --vp-c-bg-elv-mute: #1c1c29;
 
-    --vp-c-bg-soft: #0b0b10d6;
-    --vp-c-bg-soft-up: #0b0b10bd;
-    --vp-c-bg-soft-down: #0b0b10ed;
+  --vp-c-bg-soft: #0b0b10d6;
+  --vp-c-bg-soft-up: #0b0b10bd;
+  --vp-c-bg-soft-down: #0b0b10ed;
 }
 
 /* Home page overrides */
 
 .VPHome .action .VPButton.alt {
-    border-color: var(--vp-c-text-light-1);
-    border-width: 1px;
-    background: -webkit-linear-gradient(
-        120deg,
-        rgba(179, 108, 2, 0),
-        rgba(179, 67, 2, 0.1)
-    );
+  border-color: var(--vp-c-text-light-1);
+  border-width: 1px;
+  background: -webkit-linear-gradient(
+    120deg,
+    rgba(179, 108, 2, 0),
+    rgba(179, 67, 2, 0.1)
+  );
 }
 .dark .VPHome .action .VPButton.alt {
-    border-color: rgb(179, 67, 2);
+  border-color: rgb(179, 67, 2);
 }
 .dark .VPHome .action .VPButton.alt:hover {
-    color: var(--vp-c-brand);
+  color: var(--vp-c-brand);
 }
 .VPHome .action .VPButton.alt:hover {
-    background-color: #12121b54;
+  background-color: #12121b54;
 }
 
 .dark .VPContent.is-home {
-    background: linear-gradient(
-            110.81deg,
-            rgba(0, 0, 0, 0.882) 1.49%,
-            rgba(3, 1, 14, 0.629) 44.14%
-        ),
-        url("/assets/bg.jpg") right bottom no-repeat;
-    background-size: cover;
+  background: linear-gradient(
+      110.81deg,
+      rgba(0, 0, 0, 0.882) 1.49%,
+      rgba(3, 1, 14, 0.629) 44.14%
+    ),
+    url("/assets/CatsEyeNebulaWide.jpg") right bottom no-repeat;
+  background-size: cover;
 }
 
 .VPContent.is-home {
-    background: linear-gradient(
-            110.81deg,
-            rgb(167 140 120 / 68%) 1.49%,
-            #ccccf4a6 44.14%
-        ),
-        url("/assets/bg_light.jpg") right bottom no-repeat;
-    background-size: cover;
+  background: linear-gradient(
+      110.81deg,
+      rgb(167 140 120 / 68%) 1.49%,
+      #ccccf4a6 44.14%
+    ),
+    url("/assets/bg_light.jpg") right bottom no-repeat;
+  background-size: cover;
 }
-
 
 /* Top page decorative bar */
 
 .VPNavBar.has-sidebar {
-    padding-top: 10px;
+  padding-top: 10px;
 }
 .VPContent:not(.is-home)::before {
-    content: "";
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 7px;
-    z-index: 9999;
-    background-image: url("/assets/top.jpg");
-    background-size: cover;
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 7px;
+  z-index: 9999;
+  background-image: url("/assets/top.jpg");
+  background-size: cover;
 }

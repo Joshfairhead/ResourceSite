@@ -2,13 +2,13 @@
 layout: home
 
 hero:
-  name: Lunarpunk Labs
+  name: LunarPunk Labs
   # text: Generative Strategy
   tagline: Hatching generative systems
   actions:
     - theme: alt
-      text: Guidance 
-      link: /resources/guides/wallet/wallet-setup
+      text: Resources
+      link: /resources/what/index
 # features:
 # - icon: 🛠️
 #   title: Simple and minimal, always
@@ -23,5 +23,3 @@ hero:
 #   title: Another cool feature
 #   details: Lorem ipsum...
 ---
-
-

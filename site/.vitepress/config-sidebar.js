@@ -40,19 +40,19 @@ export default {
           },
           {
             text: "Tokens",
-            link: "/resources/what/tokens",
+            //link: "/resources/what/tokens",
           },
           {
             text: "Wallet Clients",
-            link: "/resources/what/wallets",
+            //link: "/resources/what/wallets",
           },
           {
             text: "DAO Treasuries",
-            link: "/resources/what/DAOs",
+            //link: "/resources/what/DAOs",
           },
           {
             text: "Application Interfaces",
-            link: "/resources/what/governance",
+            //link: "/resources/what/governance",
           },
         ],
       },

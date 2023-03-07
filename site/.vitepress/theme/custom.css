@@ -1,6 +1,7 @@
 :root {
+  --color-black: rgb(12, 12, 12);
   --vp-home-hero-name-color: var(--vp-c-text-1);
-  --vp-c-text-light-1: rgb(12, 12, 12);
+  --vp-c-text-light-1: var(--color-black);
   --vp-c-text-light-2: rgb(14, 14, 14);
   --vp-c-text-light-3: rgb(16, 16, 16);
 
@@ -32,38 +33,35 @@
 .VPHome .action .VPButton.alt {
   border-color: var(--vp-c-text-light-1);
   border-width: 1px;
-  background: -webkit-linear-gradient(
-    120deg,
-    rgba(179, 108, 2, 0),
-    rgba(179, 67, 2, 0.1)
-  );
+  background: -webkit-linear-gradient(120deg,
+      rgba(179, 108, 2, 0),
+      rgba(179, 67, 2, 0.1));
 }
+
 .dark .VPHome .action .VPButton.alt {
   border-color: rgb(179, 67, 2);
 }
+
 .dark .VPHome .action .VPButton.alt:hover {
   color: var(--vp-c-brand);
 }
+
 .VPHome .action .VPButton.alt:hover {
   background-color: #12121b54;
 }
 
 .dark .VPContent.is-home {
-  background: linear-gradient(
-      110.81deg,
+  background: linear-gradient(110.81deg,
       rgba(0, 0, 0, 0.882) 1.49%,
-      rgba(3, 1, 14, 0.629) 44.14%
-    ),
+      rgba(3, 1, 14, 0.629) 44.14%),
     url("/assets/CatsEyeNebulaWide.jpg") right bottom no-repeat;
   background-size: cover;
 }
 
 .VPContent.is-home {
-  background: linear-gradient(
-      110.81deg,
+  background: linear-gradient(110.81deg,
       rgb(167 140 120 / 68%) 1.49%,
-      #ccccf4a6 44.14%
-    ),
+      #ccccf4a6 44.14%),
     url("/assets/CatsEyeNebulaWide.jpg") right bottom no-repeat;
   background-size: cover;
 }
@@ -73,6 +71,7 @@
 .VPNavBar.has-sidebar {
   padding-top: 10px;
 }
+
 .VPContent:not(.is-home)::before {
   content: "";
   position: fixed;
@@ -83,4 +82,24 @@
   z-index: 9999;
   background-image: url("/assets/top.jpg");
   background-size: cover;
+}
+
+/**
+* Popper/tooltip styling
+**/
+
+.popper-text {
+  text-decoration: var(--vp-c-brand) dotted underline 3px;
+  text-decoration-skip-ink: auto;
+}
+
+:root {
+  --popper-theme-background-color: var(--vp-c-brand);
+  --popper-theme-background-color-hover: var(--vp-c-brand);
+  --popper-theme-text-color: var(--color-black);
+  --popper-theme-border-width: 0px;
+  --popper-theme-border-style: solid var(--vp-c-brand);
+  --popper-theme-border-radius: 6px;
+  --popper-theme-padding: 12px;
+  --popper-theme-box-shadow: 0 6px 30px -6px rgba(var(--vp-c-bg-elv-up), 0.25);
 }

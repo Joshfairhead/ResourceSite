@@ -12,7 +12,6 @@
     "site:dev": "vitepress dev site",
     "site:build": "vitepress build site",
     "site:preview": "vitepress preview site"
-  }
+  },
+  "dependencies": {}
 }
-
-

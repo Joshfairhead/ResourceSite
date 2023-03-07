@@ -1,6 +1,6 @@
 const sharedItems = {
-  text: "Useful Links",
-  items: [{ text: "H3Uni", link: "https://www.h3uni.org/about/" }],
+  text: "Methodologies",
+  items: [{ text: "H3Uni", link: "https://www.h3uni.org/resource-library/" }],
 };
 
 export default {

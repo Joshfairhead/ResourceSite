@@ -4,17 +4,17 @@ The most fundamental explanation of a blockchain is that it's a globally synchro
 
 The tricky thing about recording timestamped events over a network is that times both asynchronus and relative; clocks drift from each other based on their distance and speed of travel and thus do computers. Traditionally we bypass the issue by referencing centralised standards bodies like UNSO and NIST who then act as the source.
 
-Blockchain is unique in that it invents it's own standard known as `block time` (aka `block height`). This measurement however is simply a result of network activity and its perhaps interesting to zoom in on the topics of `block creation`, `consensus mechanisms` and `token incentives`.
+Blockchain is unique in that it invents it's own standard known as `block time` (aka `block height`). This measurement however is simply a result of network activity and so let's look at the combined topics of `block creation`, `consensus mechanisms` and `token incentives`.
 
 ## Block creation
 
-Blocks are simply containers of `transactions` woven into a chain of cryptographic hashs. Operators on the network, aka `miners`/`validators` fill blocks by collecting transactions from the `meme pool` often prioritising based on fees. When a block is `mined` or `validated` the operator receives an incentive known as a `block reward`.
+`Blocks` are simply containers of `transactions` woven into a chain of cryptographic hashs. Operators on the network, aka `miners`/`validators` fill blocks by collecting transactions from the `meme pool` predominantly prioritising these based on fees. When a block is `mined` or `validated` the operator receives an incentive known as a `block reward`.
 
 ## Proof of work consensus
 
-In a `proof-of-work` system, the content of a block is run through a `hashing algorithm` which combines it with a random variable to produce a random output (aka a `hash`). When this output matches a prescribed answer (aka `nonce`) the successful operator gets to add their block to the global ledger and recieves an economic reward. If the hash doesn't match the `nonce` they repeat the process as fast as possible until it does, or until someone else gets there first, at which point the race begins once more for the next block.
+In a `proof-of-work` system like Bitcoin, the content of a block is run through a `hashing algorithm` which combines it with a random variable to produce a random output (aka a `hash`). When this output matches a prescribed answer (aka `nonce`) the successful operator gets to add their block to the global ledger and recieves an economic reward. If the hash doesn't match the `nonce` they repeat the process as fast as possible until it does, or until someone else gets there first, at which point the race begins once more for the next block and it's rewards.
 
-## Consensus Mechanisms
+## Other Consensus Mechanisms
 
 There are many flavours of consensus mechanism; each with their own quirks and nuances. Here are a few:
 

@@ -4,10 +4,10 @@ layout: home
 hero:
   name: LunarPunk Labs
   # text: Generative Strategy
-  tagline: Hatching generative systems
+  tagline: (Ad)venture Commons
   actions:
     - theme: alt
-      text: Resources
+      text: Explore
       link: /resources/what/index
 # features:
 # - icon: 🛠️

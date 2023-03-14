@@ -4,7 +4,7 @@ layout: home
 hero:
   name: LunarPunk Labs
   # text: Generative Strategy
-  tagline: (Ad)venture Commons
+  tagline: Sentient Impact Commons
   actions:
     - theme: alt
       text: Explore

@@ -8,7 +8,7 @@ Blockchain is unique in that it invents it's own standard known as `block time` 
 
 ## Block creation
 
-`Blocks` are simply containers of `transactions` woven into a chain of cryptographic hashs. Operators on the network, aka `miners`/`validators` fill blocks by collecting transactions from the `meme pool` predominantly prioritising these based on fees. When a block is `mined` or `validated` the operator receives an incentive known as a `block reward`.
+`Blocks` are simply containers of `transactions` woven into a chain of cryptographic hashs. Operators on the network, aka `miners`/`validators` fill blocks by collecting transactions from the networks `meme pool` predominantly prioritising these based on fees. When a block is `mined` or `validated` the operator receives an incentive known as a `block reward`.
 
 ## Proof of work consensus
 

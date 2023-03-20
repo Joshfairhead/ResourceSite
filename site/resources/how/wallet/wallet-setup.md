@@ -1,10 +1,12 @@
 # Wallet Setup
-There are a number of wallets you can use on Regen but the most accessible is way to get started is to download [Keplr](https://chrome.google.com/webstore/detail/keplr/dmkamcknogkgcdfhhbddcghachkejeap?hl=en) - we'll work with that for now. Keplr is a [Chrome](https://www.google.com/chrome/) browser extension so you'll need to alread have that or download it first as a prerequisite. 
 
-## Steps
+There are a number of wallets you can use on Regen but the most accessible is way to get started is to download [Keplr](https://chrome.google.com/webstore/detail/keplr/dmkamcknogkgcdfhhbddcghachkejeap?hl=en) - we'll work with that for now. Keplr is a [Chrome](https://www.google.com/chrome/) browser extension so you'll need to alread have that or download it first as a prerequisite.
+
+### Steps
+
 - Download [Chrome](https://www.google.com/chrome/)
 - Open Chrome
-- Download  [Keplr](https://chrome.google.com/webstore/detail/keplr/dmkamcknogkgcdfhhbddcghachkejeap?hl=en) (use this link)
+- Download [Keplr](https://chrome.google.com/webstore/detail/keplr/dmkamcknogkgcdfhhbddcghachkejeap?hl=en) (use this link)
 - Click the blue "Add" button
 - "Add Keplr" window will appear
 - Click the button "add extension"

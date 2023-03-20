@@ -1,6 +1,6 @@
 # What are tokens?
 
-Tokens are digitally scarce symbols with associated properties. These can generally be thought of as representing either short term mediums of exchange (currency), or as long term stores of value (capital). Once upon a time the Swiss regulators divided these up into three abstract categories; `utility tokens`, `security tokens` and `community tokens`.
+Tokens are digitally scarce symbols with associated properties. These can generally be thought of as representing either short term mediums of exchange (currency), or as long term stores of value (capital). Initially Swiss regulators made sense of these through a framework of three types; `utility tokens`, `security tokens` and `community tokens`.
 
 ### Utility tokens (+)
 
@@ -8,7 +8,7 @@ Utility tokens can be used to redeem functionality within the context of a netwo
 
 ### Security Tokens (-)
 
-Security tokens can be thought of as legal wrappers which denote ownership rights. This could thought of as shares in a company or the deeds to a property.
+Security tokens can be thought of as legal wrappers which denote ownership rights. This could be thought of as shares in a company or the deeds to a property.
 
 ### Community Tokens (=)
 

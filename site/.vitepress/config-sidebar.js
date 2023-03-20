@@ -21,7 +21,6 @@ export default {
         items: [
           {
             text: "Distributed Ledgers",
-            collapsed: false,
             link: "/resources/what/1_ledger/ledger",
             items: [
               //     collapsed: false,
@@ -40,11 +39,11 @@ export default {
           },
           {
             text: "Tokens",
-            //link: "/resources/what/tokens",
+            link: "/resources/what/2_tokens/tokens",
           },
           {
             text: "Wallet Clients",
-            //link: "/resources/what/wallets",
+            link: "/resources/what/3_wallet-clients/wallets",
           },
           {
             text: "DAO Treasuries",
@@ -78,47 +77,44 @@ export default {
         text: "Learning Resources",
         items: [
           {
-            text: "Wallets",
-            collapsed: true,
+            text: "Cosmos Wallets",
+            collapsed: false,
             items: [
               {
                 text: "Wallet Setup",
-                link: "/resources/guides/how/wallet-setup",
+                link: "/resources/how/wallet/wallet-setup",
               },
               {
                 text: "Wallet Transactions",
-                link: "/resources/guides/how/wallet-transactions",
+                link: "/resources/how/wallet/wallet-transactions",
               },
-              {
-                text: "Staking Wallet Setup",
-                link: "/resources/guides/how/staking-wallet-setup",
-              },
+              // { text: "Staking Wallet Setup", link: "/resources/how/wallet/staking-wallet-setup" },
               // { text: "Cosmos Wallet Onboarding", link: "/wallet/cosmos-wallet-onboarding" },
             ],
           },
           {
             text: "Commonwealth",
-            collapsed: true,
+            collapsed: false,
             items: [
               {
                 text: "Sign-up",
-                link: "/resources/guides/commonwealth/sign-up",
+                link: "/resources/how/commonwealth/sign-up",
               },
               {
                 text: "Discussion",
-                link: "/resources/guides/commonwealth/discussion",
-              },
-              {
-                text: "Proposals",
-                link: "/resources/guides/commonwealth/proposals",
+                link: "/resources/how/commonwealth/discussion",
               },
               {
                 text: "Voting",
-                link: "/resources/guides/commonwealth/voting",
+                link: "/resources/how/commonwealth/voting",
+              },
+              {
+                text: "Signalling Proposals",
+                link: "/resources/how/commonwealth/signalling-proposals",
               },
               {
                 text: "Community Spend Proposal",
-                link: "/resources/guides/commonwealth/community-spend-proposal",
+                link: "/resources/how/commonwealth/community-spend-proposal",
               },
             ],
           },

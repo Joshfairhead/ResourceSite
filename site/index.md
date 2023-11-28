@@ -4,11 +4,11 @@ layout: home
 hero:
   name: LunarPunk Labs
   # text: Generative Strategy
-  tagline: Sentient Adaptive Commons
+  tagline: Cosmic Intelligence Agency
   actions:
     - theme: alt
-      text: Explore
-      link: /resources/what/index
+      text: Learn and Explore
+      link: /resources/introduction/launch
 # features:
 # - icon: 🛠️
 #   title: Simple and minimal, always

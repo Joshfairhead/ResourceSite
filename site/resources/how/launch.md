@@ -6,7 +6,7 @@ This series of guides focuses on those unfamiliar with technological environment
 
 The following instruction set is general enough to be used for onboarding participants into an existing organisation or for bootstrapping a fresh membrane.
 
-<img src="/Users/skynet2/dev/resource-site/site/public/assets/onboarding/Onboarding.png" alt="Semi-open onboarding"/>
+<img src="/assets/onboarding/Onboarding.png" alt="Semi-open onboarding"/>
 
 1. Begin setup with communication to articulate the tools used and grant permissions, Look ahead to process and review
 
@@ -26,7 +26,7 @@ The following instruction set is general enough to be used for onboarding partic
 
 Great, the ball's rolling now so let's ask some important questions lest we get carried away by the currents of cosmos. We will do this through the lens of a viable systems model:
 
-<img src="/Users/skynet2/dev/resource-site/site/public/assets/onboarding/ViableSystem.png" alt="Viable Systems Model"/>
+<img src=/assets/onboarding/ViableSystem.png" alt="Viable Systems Model"/>
 
 1. What is the purpose or identity of our activity?
 2. What intelligence is needed about the exterior environment for our group to be effective in carrying out it's activities?

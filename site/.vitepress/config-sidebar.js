@@ -13,7 +13,7 @@ export default {
     "/resources/": [
       {
         text: "Launch Pad",
-        link: "/resources/index.md",
+        link: "/resources/introduction/launchpad.md",
         items: [],
       },
       {
@@ -51,7 +51,7 @@ export default {
             items: [
               {
                 text: "Cosmos Wallets",
-                collapsed: false,
+                collapsed: true,
                 items: [
                   {
                     text: "Wallet Setup",
@@ -67,7 +67,7 @@ export default {
               },
               {
                 text: "Commonwealth",
-                collapsed: false,
+                collapsed: true,
                 items: [
                   {
                     text: "Sign-up",

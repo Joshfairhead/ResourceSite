@@ -7,8 +7,8 @@ hero:
   tagline: Cosmic Intelligence Agency
   actions:
     - theme: alt
-      text: Learn and Explore
-      link: /resources/introduction/launch
+      text: Explore the Cosmos
+      link: /resources/introduction/launchpad
 # features:
 # - icon: 🛠️
 #   title: Simple and minimal, always

@@ -3,7 +3,7 @@ import configSidebar from "./config-sidebar";
 
 export default {
   title: "Lunarpunk Labs",
-  description: "Grounding the Cosmos",
+  description: "Cosmic Intelligence",
   appearance: "dark",
   lastUpdated: true,
   head: [

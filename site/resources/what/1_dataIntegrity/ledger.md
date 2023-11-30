@@ -1,4 +1,4 @@
-# What is a distributed ledger?
+## What is a distributed ledger?
 
 The most fundamental explanation of a blockchain is that it's a globally synchronised clock that enables the recording of events on what's known as a `distributed ledger`.
 

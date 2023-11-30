@@ -20,33 +20,37 @@ export default {
         text: "Field Guides",
         items: [
           {
-            text: "What is a Blockchain?",
+            text: "What is Web3?",
             collapsed: true,
             items: [
               {
-                text: "Distributed Ledgers",
-                link: "/resources/what/1_ledger/ledger",
+                text: "Overview",
+                link: "/resources/what/0_overview/overview",
               },
               {
-                text: "Tokens",
-                link: "/resources/what/2_tokens/tokens",
+                text: "Data Integrity",
+                link: "/resources/what/1_dataIntegrity/ledger",
+              },
+              {
+                text: "Crypto Tokens",
+                link: "/resources/what/2_cryptoTokens/tokens",
               },
               {
                 text: "Wallet Clients",
-                link: "/resources/what/3_wallet-clients/wallets",
+                link: "/resources/what/3_walletClients/wallets",
               },
               {
-                text: "DAO Treasuries",
+                text: "DAO Governance",
                 //link: "/resources/what/DAOs",
               },
               {
-                text: "Application Interfaces",
+                text: "Distributed Applications",
                 //link: "/resources/what/governance",
               },
             ],
           },
           {
-            text: "How to use Blockchain?",
+            text: "How to use Web3?",
             collapsed: true,
             items: [
               {

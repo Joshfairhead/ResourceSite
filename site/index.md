@@ -4,10 +4,10 @@ layout: home
 hero:
   name: LunarPunk Labs
   # text: Generative Strategy
-  tagline: Cosmic Intelligence Agency
+  tagline: Cosmic Collective Intelligence
   actions:
     - theme: alt
-      text: Explore the Cosmos
+      text: Transmission Codex
       link: /resources/introduction/launchpad
 # features:
 # - icon: 🛠️

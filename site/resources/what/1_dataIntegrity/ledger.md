@@ -1,3 +1,13 @@
+# Data integrity
+
+The Web3 ecosystems leverage cryptography at a fundemental level to ensure data integrity and the tamperproofing of their network communications and activity.
+
+This is achieved through cryptographic hashing; a process where by inputs are fed into an algorythm that creates a fixed length output in the form of a `hash` or 'digital barcode'. This output is deterministic because the same input will always create the same output `hash`. This output can be reused as an input to link data together as `merkle trees`.
+
+This conceptual pattern underlies pretty much all web3 technology, be it blockchain ledgers or distributed hash tables.
+
+![MerkleTree](/assets/web3/MerkleTree.png)
+
 ## What is a distributed ledger?
 
 The most fundamental explanation of a blockchain is that it's a globally synchronised clock that enables the recording of events on what's known as a `distributed ledger`.

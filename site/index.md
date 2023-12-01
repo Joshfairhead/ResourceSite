@@ -7,7 +7,7 @@ hero:
   tagline: Cosmic Collective Intelligence
   actions:
     - theme: alt
-      text: Transmission Codex
+      text: Deep Space Transmissions
       link: /resources/introduction/launchpad
 # features:
 # - icon: 🛠️

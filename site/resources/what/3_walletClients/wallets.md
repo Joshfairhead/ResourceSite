@@ -21,3 +21,7 @@ Often this will be a dapp loooking to connect to your wallet and check your hist
 Sending tokens is also pretty easy; using a hot wallet you find the send button and click it to create a transaction. You fill in the appropriate fields like number of tokens, the recipient address (public key) and check the network fees are reasonable.
 
 Once the transaction has been created, you sign the message with your private key. This funtion is automated in a hot wallet but if your using a cold wallet you'll have to type in the `private key` manually. Once this is entered your transaction can be broadcast to the network operators. You can check usually check the transaction status in directly in your hot wallet, but block explorers also exist to perform this function.
+
+---
+
+Check out the how to guides on wallets for direct and specific instruction sets.

@@ -4,8 +4,8 @@ export default {
       text: "Resources",
       items: [
         {
-          text: "What is Blockchain",
-          link: "resources/what/1_ledger/ledger",
+          text: "What is Web3",
+          link: "resources/what/0_overview/overview.md",
         },
         {
           text: "How to Guides",

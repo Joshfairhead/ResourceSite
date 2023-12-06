@@ -1,20 +1,56 @@
-# DAO Governance
+# Governance
 
-Governance is a word which refers to deliberation (essence) and decision making (existence). It's an evergreen topic in autonomously organising spaces like web3, coming in three fundemental forms; `soft governance`, `hard governance` and `meta governance`.
+Governance is the management of shared resources and refers to processes of essential deliberation and existential decision making. We can approximate the dynamics in three forms; `soft governance`, `hard governance` and `meta governance`.
 
-### Meta Governance (=)
+### 💫 Metagovernance (=)
 
-Meta governance is the process of reconciling both hard and soft flavours of governance. To analagously on metaphysics, hard governance can be considered synonomous with <tip content="knowlege about knowing">epistemology</tip> (rock), while soft governance can be considered synonomous with <tip content="subjective tastes and preferences of a belief systems">ontology</tip> (whirlpool).
+Metagovernance acts as a spontaneous switch to flip decision modality between hard and soft forms of governance. Drawing a comparison to its cousin metaphysics; hard governance can be considered analogous to 🗿<tip content="knowlege about how we know">epistemology</tip> 🗿, while soft governance can be considered analogous to 🌀 <tip content="subjective tastes and preferences of belief systems">ontology</tip> 🌀.
 
-The epistemological process of deciding how decisions should and shouldn't be made represent the hard rock like aspects of metagovernance, while the ontological process of discussing how discussions should and shouln't be run represents the soft whirlpool like aspects.
+### 🌀 Soft Governance (-)
 
-### Soft Governance (-)
+Soft governance is a world of identities, relationships, and potentialities that stoke the fires of will and desire through exchange of cultural values, mission statements and manifestos. Discourse in the deliberative modality where parties offer eachother advice or warnings is typically most civilised.
 
-Deliberative discussion around what could, should and shouldn't be done. You can think of it as water cooler chitter chatter. This is often a pleasent way to get started on projects but without harder mechanisms in place the group can get stuck and devolve into argument or simply remain suspended in virtuality by taking no action.
+### 🗿 Hard Governance (+)
 
-### Hard Governance (+)
+Formalized decision processes that adhere to an agreed upon or dictated set of conventions. These explicit rule sets lend themselves to on chain mechanisims and codification as software tools like [Commonwealth](commonwealth.im)
 
-Formalized decision processes that adhere to an agreed upon or dictated set of conventions. These processes are often codified as software tools for voting but there are alternative designs that are more progressive in nature. The main thing is that there is some defined criterea for taking action.
+## 🌱 System Viability
+
+Great - the ball's rolling - let's ask some important questions lest our vessel get carried away by the cosmic currents. Think about and consider the wider context of your activites through the lens of a viable systems model. Consider the relationships as generative links to derrive questions from, below are a limited set of examples:
+
+![Viable Systems Model](/assets/onboarding/ViableSystem.png)
+
+1. What is the aligning source or purpose that drives activity? Pioneers are suggested to query their cosmologies and contemplate essential questions or spiritual callings!
+2. What information and intelligence is needed to make sense of trends and horizons in the external world? How does this relate to purpose and guide the coordination task? What resourcing opportuntities are available?
+3. What operations support autonomy for everyone in the ecosystem? Is the vibe aligned with purpose? Has operations enough intelligence about the exterior environment? Hows the pipeline for tasks and projects looking? Do they need resourcing?
+4. What tasks and projects are cohearing coordination? Do they fit with organisational purpose? Do they fit with the wider environment? Are they sufficiently resourced? What infrastructure is needed to manage activity?
+5. What resources are needed to sustain organisational purpose? How are resources acquired? What forms do they take? Are they nutritious and wholesome?
+
+## Curated Links and Resources
+
+### Models and Handbooks
+
+- [Forrest Landry: On The Nature of Human Assumbly](http://web.archive.org/web/20160805161457/http://www.magic-flight.com/pub/uvsm_1/sgrp_small_group_2.pdf)
+- [Social Architecture: Building On-line Communities](https://hintjens.gitbooks.io/social-architecture/content/)
+- [Microsolidarity](https://microsolidarity.cc)
+- [Enspiral Handbook](http://handbook.enspiral.com/)
+- [Better Work Together](https://betterworktogether.co/)
+- [Shape Up](https://basecamp.com/shapeup)
+- [Gini Handbook](https://drive.google.com/file/d/0B44XthBdMmN6bGlfdk8zejdSZUU/view)
+- [Opencraft Handbook](https://handbook.opencraft.com/en/latest/organization/)
+- [Liberating structures](https://www.liberatingstructures.com/)
+- [Future Governence](http://futuregovernance.info/)
+
+### Collections
+
+- [Rich Bartlett: Resources for decentralised organising](https://hackmd.io/s/Skh_dXNbE)
+- [Christopher Allen: Participatory Orgs Project](https://github.com/ParticipatoryOrgs)
+
+### Sociological context
+
+- [A Prehistory of DAOs](https://gnosisguild.mirror.xyz/t4F5rItMw4-mlpLZf5JQhElbDfQ2JRVKAzEpanyxW1Q)
+- [Are Theme Camps the New Rennessaince Guilds](https://journal.burningman.org/2016/07/philosophical-center/tenprinciples/are-theme-camps-the-new-renaissance-guilds/)
+- [The Role of Guilds](https://www.socialstudies.org/system/files/publications/articles/se_77021364.pdf)
 
 <!--
 
@@ -62,25 +98,7 @@ A core existential question that applies to decision making is "who decides who 
 - Participation: i.e., how many people participated in the system’s decision-making process.
 
 
-## Resources
-Here are a number of leads and references in relation to the organisation and governance of autonomous spaces.
 
-### Models and Handbooks
-
-- ![On The Nature of Human Assumbly](http://web.archive.org/web/20160805161457/http://www.magic-flight.com/pub/uvsm_1/sgrp_small_group_2.pdf)
-- ![Social Architecture - Building On-line Communities](https://hintjens.gitbooks.io/social-architecture/content/)
-- ![Microsolidarity](https://microsolidarity.cc)
-- [Enspiral Handbook](http://handbook.enspiral.com/) [[Enspiral]]
-- [Better Work Togethere](https://betterworktogether.co/)
-- ![Shape Up](https://basecamp.com/shapeup)
-- [Gini Handbook](https://drive.google.com/file/d/0B44XthBdMmN6bGlfdk8zejdSZUU/view)
-- [Opencraft Handbook](https://handbook.opencraft.com/en/latest/organization/)
-- ![Liberating structures](https://www.liberatingstructures.com/))
-- ![Future Governonce](http://futuregovernance.info/)
-
-### Lists
-- [Resources for decentralised organising](https://hackmd.io/s/Skh_dXNbE) - Rich Bartletts big list
-- [Participatory Orgs Project](https://github.com/ParticipatoryOrgs) -
 
 
 -->

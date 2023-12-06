@@ -1,10 +1,10 @@
 # Data integrity
 
-Web3 ecosystems leverage cryptography at a fundemental level to ensure network security and the tamperproofing of all data being communicated.
+At a fundemental level all Web3 ecosystems tamperproof communications with cryptography in order to ensure network security of the whole.
 
-This is achieved through whats known as cryptographic hashing; a process where by inputs are fed into an algorithm to creates a fixed length output in the form of a 'digital barcode' or `hash`.
+This is done through a process of cryptographic hashing; inputs are fed into an algorithm which outputs a fixed length `hash` or 'digital barcode' which acts as an identifier.
 
-The output of this process is `deterministic` because the same input will always create the same output. This `hash` can be reused as part of the input to link data together in `merkle trees`.
+The same input will always create the same output `hash` which makes the process `deterministic`. The output `hash` can be reused as part of the next input in order to link data together as a `merkle tree`.
 
 This conceptual pattern underlies all web3 technologies; be they blockchain ledgers or distributed hash tables.
 
@@ -40,4 +40,6 @@ In PoS networks, <tip content="Network operators">validators</tip> lock up large
 
 ### Delegated Proof-of-stake
 
-dPos networks are essentially the same as PoS networks with a major variaton; token holders select a limited validator set which improves performance and scalability. Think of it like PoS ran by shareholders.
+dPos networks are essentially the same as PoS networks with one major variaton; token holders select a limited validator set which improves performance and scalability - think of it like PoS ran by shareholders.
+
+Due to this tweak dPoS architecture tends to be more dynamic than other designs. Token holders delegate their stake to validators, who then act network fiduciaries on by considering, curating and voting on technical proposals submitted to the networks treasury.

@@ -41,11 +41,12 @@ export default {
               },
               {
                 text: "DAO Governance",
-                //link: "/resources/what/DAOs",
+                link: "/resources/what/4_DAOGovernance/governance.md",
               },
               {
                 text: "Distributed Applications",
-                //link: "/resources/what/governance",
+                link:
+                  "/resources/what/5_distributedApplications/distributedApplications.md",
               },
             ],
           },

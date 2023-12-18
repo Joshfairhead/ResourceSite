@@ -16,8 +16,16 @@ export default {
     {
       text: "Creative",
       items: [
-        { text: "To The Cosmos", link: "https://tothecosmos.org/" },
-        { text: "WeCo", link: "https://weco.io/s/lunarpunklabs/posts" },
+        { text: "Blog: To The Cosmos", link: "https://tothecosmos.org/" },
+        {
+          text: "Playground: WeCo",
+          link: "https://weco.io/s/lunarpunklabs/posts",
+        },
+        {
+          text: "Youtube Meetings",
+          link:
+            "https://https://www.youtube.com/channel/UCpxqNVdRiNH_uxgPF5SGSZQ/",
+        },
       ],
     },
   ],

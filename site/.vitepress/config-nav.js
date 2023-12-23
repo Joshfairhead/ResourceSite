@@ -1,6 +1,16 @@
 export default {
   nav: [
     {
+      text: "DAOs",
+      items: [
+        {
+          text: "Aragon DAO",
+          link:
+            "https://app.aragon.org/#/daos/ethereum/lunarpunklabs.dao.eth/community",
+        },
+      ],
+    },
+    {
       text: "Resources",
       items: [
         {

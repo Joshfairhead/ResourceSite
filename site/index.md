@@ -2,9 +2,9 @@
 layout: home
 
 hero:
-  name: LunarPunk Labs
+  name: Cosmic Consulting
   # text: Generative Strategy
-  tagline: Cosmic Collective Intelligence
+  tagline: Intergalactic Intelligence
   actions:
     - theme: alt
       text: Deep Space Transmissions

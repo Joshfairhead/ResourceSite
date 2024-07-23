@@ -2,7 +2,7 @@ import configNav from "./config-nav";
 import configSidebar from "./config-sidebar";
 
 export default {
-  title: "Lunarpunk Labs",
+  title: "Cosmic Consulting",
   description: "Cosmic Intelligence",
   appearance: "dark",
   lastUpdated: true,
@@ -55,18 +55,18 @@ export default {
     ],
   ],
   themeConfig: {
-    siteTitle: "LunarPunk Labs",
+    siteTitle: "Cosmic Consulting",
     logo: "/assets/logo.png",
     ...configSidebar,
     ...configNav,
     editLink: {
       pattern:
-        "https://github.com/lunarpunk-labs/resource-site/edit/main/site/:path",
+        "https://github.com/Joshfairhead/ResourceSite/edit/main/site/:path",
       text: "Edit this page on GitHub",
     },
     socialLinks: [
-      { icon: "github", link: "https://github.com/lunarpunk-labs" },
-      { icon: "twitter", link: "https://twitter.com/lunarpunk_labs" },
+      { icon: "github", link: "https://github.com/JoshFairhead" },
+      { icon: "twitter", link: "https://twitter.com/JoshAFairhead" },
       {
         icon: {
           svg:

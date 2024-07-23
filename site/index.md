@@ -7,7 +7,7 @@ hero:
   tagline: Intergalactic Intelligence
   actions:
     - theme: alt
-      text: Deep Space Transmissions
+      text: Transmissions
       link: /resources/introduction/launchpad
 # features:
 # - icon: 🛠️

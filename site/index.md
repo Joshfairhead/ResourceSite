@@ -2,7 +2,7 @@
 layout: home
 
 hero:
-  name: Conscious Consulting
+  name: Cosmic Consulting
   # text: Generative Strategy
   tagline: Digital Intelligence
   actions:

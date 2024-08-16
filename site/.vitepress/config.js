@@ -2,8 +2,8 @@ import configNav from "./config-nav";
 import configSidebar from "./config-sidebar";
 
 export default {
-  title: "Cosmic Consulting",
-  description: "Cosmic Intelligence",
+  title: "Conscious Consulting",
+  description: "Digital Intelligence",
   appearance: "dark",
   lastUpdated: true,
   head: [
@@ -56,7 +56,7 @@ export default {
   ],
   themeConfig: {
     siteTitle: "Cosmic Consulting",
-    logo: "/assets/logo.png",
+    logo: "/assets/favicon.png",
     ...configSidebar,
     ...configNav,
     editLink: {

@@ -28,4 +28,4 @@ The below guide is designed to generalise across many spaces but might still req
 
 6. Discuss the artifact under production with peers or a mentor while considering acceptance criteria and plan for the needs of your next cycle.
 
-7. Take action based on the reviewed artifact while scouting collaborators collaborators for the next cycle, you'll probably want to work with at least three.
+7. Take action based on the reviewed artifact while scouting collaborators for the next cycle, you'll probably want to work with at least three.

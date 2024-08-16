@@ -33,9 +33,11 @@
 .VPHome .action .VPButton.alt {
   border-color: var(--vp-c-text-light-1);
   border-width: 1px;
-  background: -webkit-linear-gradient(120deg,
-      rgba(179, 108, 2, 0),
-      rgba(179, 67, 2, 0.1));
+  background: -webkit-linear-gradient(
+    120deg,
+    rgba(179, 108, 2, 0),
+    rgba(179, 67, 2, 0.1)
+  );
 }
 
 .dark .VPHome .action .VPButton.alt {
@@ -51,18 +53,22 @@
 }
 
 .dark .VPContent.is-home {
-  background: linear-gradient(110.81deg,
+  background: linear-gradient(
+      110.81deg,
       rgba(0, 0, 0, 0.882) 1.49%,
-      rgba(3, 1, 14, 0.629) 44.14%),
-    url("/assets/CatsEyeNebulaWide.jpg") right bottom no-repeat;
+      rgba(3, 1, 14, 0.629) 44.14%
+    ),
+    url("/assets/PillarsOfCreation1edit.jpg") right bottom no-repeat;
   background-size: cover;
 }
 
 .VPContent.is-home {
-  background: linear-gradient(110.81deg,
+  background: linear-gradient(
+      110.81deg,
       rgb(167 140 120 / 68%) 1.49%,
-      #ccccf4a6 44.14%),
-    url("/assets/CatsEyeNebulaWide.jpg") right bottom no-repeat;
+      #ccccf4a6 44.14%
+    ),
+    url("/assets/PillarsOfCreation1edit.jpg") right bottom no-repeat;
   background-size: cover;
 }
 

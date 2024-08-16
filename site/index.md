@@ -2,12 +2,12 @@
 layout: home
 
 hero:
-  name: Cosmic Consulting
+  name: Conscious Consulting
   # text: Generative Strategy
-  tagline: Intergalactic Intelligence
+  tagline: Digital Intelligence
   actions:
     - theme: alt
-      text: Digital Transmissions
+      text: Transmissions
       link: /resources/introduction/launchpad
 # features:
 # - icon: 🛠️

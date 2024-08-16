@@ -7,7 +7,7 @@ hero:
   tagline: Digital Intelligence
   actions:
     - theme: alt
-      text: Transmissions
+      text: Resources
       link: /resources/introduction/launchpad
 # features:
 # - icon: 🛠️

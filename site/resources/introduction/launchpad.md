@@ -1,8 +1,6 @@
 # Cosmo Genesis
 
-![](/assets/cosmogenesis.png)
-
-Welcome! You have made it to our training lab on the moon; an observation site for cosmic ecologists. As you explore, you'll find resources and transmissions that will aid you in comparative studies and praxis based learning. The perceptive may even notice some easter eggs around!
+Welcome! You have made it to an observation deck for cosmic ecologists. As you explore, you'll find resources and transmissions that will aid you in comparative studies and praxis learning. If you like what you see, please consider <a href="mailto:hello@joshafairhead.com">getting in touch</a> for consultations regarding digital strategy. Donations are also welcome.
 
 ## 🚀 Quick Start For Pioneers
 
@@ -12,7 +10,7 @@ Below is a simple onboarding transmission for those looking get immediately star
 
 ## 🏴‍☠️Autonomous Onboarding
 
-The below guide is designed to generalise across many spaces but might still require some minor tweaks to taylor a fit with your own specific context:
+The below guide is designed to generalise across many spaces but might still require some minor tweaks to tailor a fit with your own specific context:
 
 ![Semi-open onboarding](/assets/onboarding/Onboarding.png)
 

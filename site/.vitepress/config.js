@@ -55,7 +55,7 @@ export default {
     ],
   ],
   themeConfig: {
-    siteTitle: "Cosmic Consulting",
+    siteTitle: "Josh Fairhead",
     logo: "/assets/favicon.png",
     ...configSidebar,
     ...configNav,
